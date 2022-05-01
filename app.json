@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-reaect-native",
-    "slug": "my-reaect-native",
+    "name": "moon-msg-mobile",
+    "slug": "moon-msg-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "my.react.native"
+      "package": "moon.msg.mobile"
     },
     "web": {
       "favicon": "./assets/favicon.png"
